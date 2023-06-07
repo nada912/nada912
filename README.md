@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋  About Me
 
-<!--
-**nada912/nada912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ⚡ CURRENTLY : Open to internship opportunities, [contact me](mailto:nadire.nada91@gmail.com) !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data & Artificial Intelligence Engineering student at [Efrei](https://www.efrei.fr/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;📍  Based in Paris
+
+&nbsp;&nbsp;&nbsp;&nbsp;💓  Coding since 2020
+
+&nbsp;&nbsp;&nbsp;&nbsp;🚀  Freelance developer
+
+&nbsp;&nbsp;&nbsp;&nbsp;🫂  I am passionnate about Artificial Intelligence
+
+&nbsp;&nbsp;&nbsp;&nbsp;💬  Ping me about : data & AI, web development, anything doggo related 🐶
