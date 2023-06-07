@@ -13,4 +13,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🫂  I am passionnate about Artificial Intelligence
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬  Ping me about : data & AI, web development, anything doggo related 🐶
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💬  Ping me about : data & AI, design and web development, anything doggo related 🐶
