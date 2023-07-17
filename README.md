@@ -4,7 +4,7 @@
 ### ⚡ CURRENTLY : Open to internship opportunities, [contact me](mailto:nadire.nada91@gmail.com) !
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data & Artificial Intelligence Engineering student at [Efrei](https://www.efrei.fr/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data Engineering student at [Efrei](https://www.efrei.fr/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍  Based in Paris
 
