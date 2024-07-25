@@ -1,7 +1,7 @@
 ![github_software_girl](https://github.com/nada912/nada912/assets/75384601/e4f93f8f-e222-4923-a4c0-0d602519f0a4)
 ## 👋  About Me
 
-### ⚡ CURRENTLY : Open to apprenticeship & freelance opportunities, [contact me](mailto:nadire.nada91@gmail.com) !
+### ⚡ CURRENTLY : Open to freelance opportunities, [contact me](mailto:nadire.nada91@gmail.com) !
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data Engineering student at [Efrei](https://www.efrei.fr/)
