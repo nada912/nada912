@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💓  Coding since 2020
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀  Freelance developer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀  Business Intelligence Analyst Apprentice 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🫂  I am passionnate about Artificial Intelligence
 
