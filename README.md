@@ -4,13 +4,11 @@
 ### ⚡ CURRENTLY : Open to CDI opportunities, [contact me](mailto:nadire.nada92@gmail.com) !
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data Engineering graduate student at [Efrei](https://www.efrei.fr/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data Engineer
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍  Based in Paris
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💓  Coding since 2020
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀  Data Engineer
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🫂  I am passionnate about Artificial Intelligence
 
