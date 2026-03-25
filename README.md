@@ -1,16 +1,16 @@
 ![github_software_girl](https://github.com/nada912/nada912/assets/75384601/e4f93f8f-e222-4923-a4c0-0d602519f0a4)
 ## 👋  About Me
 
-### ⚡ CURRENTLY : Open to freelance opportunities, [contact me](mailto:nadire.nada91@gmail.com) !
+### ⚡ CURRENTLY : Open to CDI opportunities, [contact me](mailto:nadire.nada92@gmail.com) !
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data Engineering student at [Efrei](https://www.efrei.fr/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩🏽‍💻  Data Engineering graduate student at [Efrei](https://www.efrei.fr/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍  Based in Paris
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💓  Coding since 2020
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀  Business Intelligence Analyst Apprentice 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀  Data Engineer
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🫂  I am passionnate about Artificial Intelligence
 
